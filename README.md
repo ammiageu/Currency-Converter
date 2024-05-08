@@ -1,3 +1,3 @@
-# Currency-Converter &#128178
+# Currency-Converter 💲
 
 Hello, Allura team! This repository is part of the Challenge ONE.
