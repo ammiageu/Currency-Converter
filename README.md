@@ -21,5 +21,5 @@
 <h2>
   Autor:
 </h2>
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/ammi.ageu)
-| :---: | 
+<img src="https://avatars.githubusercontent.com/u/128003903?v=4" width=115> <br>
+Ammi Espinoza https://github.com/ammi.ageu
