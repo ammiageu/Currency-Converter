@@ -15,3 +15,11 @@
 <p align="left">
    <img src="https://i.postimg.cc/3N6Qz8DX/K.png">
    </p>
+<h4 align="center">
+:white_check_mark: Proyecto en finalizado :white_check_mark
+</h4> 
+<h2>
+  Autor:
+</h2>
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/ammi.ageu)
+| :---: | 
