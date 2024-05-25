@@ -5,4 +5,13 @@
 <h2>
   Este proyecto Currency Converter es el Challenge ONE parte del programa de Allura junto con Oracle Next Education.
 </h2>
+   <p align="left">
+   <img src="https://github.com/ammiageu/Currency-Converter/assets/128003903/038e2511-d327-4828-a652-77d03cbd042c">
+   </p>
+<h2>
+  Usando herramientascomo las API y librerias los usuarios pueden interactuar con la aplicacion y solicitar y obtener su cambio de divisas.
+</h2>
 
+<p align="left">
+   <img src="https://i.postimg.cc/3N6Qz8DX/K.png">
+   </p>
