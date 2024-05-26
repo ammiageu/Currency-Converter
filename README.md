@@ -16,7 +16,7 @@
    <img src="https://i.postimg.cc/3N6Qz8DX/K.png">
    </p>
 <h4 align="center">
-:white_check_mark: Proyecto en finalizado :white_check_mark
+:white_check_mark: Proyecto en finalizado :white_check_mark:
 </h4> 
 <h2>
   Autor:
